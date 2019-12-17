@@ -19,5 +19,3 @@ How to run it:
 5. Revise cleanup.sh file and run it.
          eg: ./cleanup.sh 
 
-
-If there is any question, please contact me txl180004@utdallas.edu
